@@ -1,0 +1,45 @@
+C:\Users\USER 2\AppData\Local\Temporary Projects\APOTEK\bin\Debug\APOTEK.exe
+C:\Users\USER 2\AppData\Local\Temporary Projects\APOTEK\bin\Debug\APOTEK.pdb
+C:\Users\USER 2\AppData\Local\Temporary Projects\APOTEK\bin\Debug\APOTEK.xml
+C:\Users\USER 2\AppData\Local\Temporary Projects\APOTEK\obj\x86\Debug\APOTEK.Form1.resources
+C:\Users\USER 2\AppData\Local\Temporary Projects\APOTEK\obj\x86\Debug\APOTEK.Resources.resources
+C:\Users\USER 2\AppData\Local\Temporary Projects\APOTEK\obj\x86\Debug\APOTEK.vbproj.GenerateResource.Cache
+C:\Users\USER 2\AppData\Local\Temporary Projects\APOTEK\obj\x86\Debug\APOTEK.exe
+C:\Users\USER 2\AppData\Local\Temporary Projects\APOTEK\obj\x86\Debug\APOTEK.xml
+C:\Users\USER 2\AppData\Local\Temporary Projects\APOTEK\obj\x86\Debug\APOTEK.pdb
+e:\users\user 2\documents\visual studio 2010\Projects\APOTEK\APOTEK\obj\x86\Debug\APOTEK.exe
+e:\users\user 2\documents\visual studio 2010\Projects\APOTEK\APOTEK\obj\x86\Debug\APOTEK.xml
+e:\users\user 2\documents\visual studio 2010\Projects\APOTEK\APOTEK\obj\x86\Debug\APOTEK.pdb
+e:\users\user 2\documents\visual studio 2010\Projects\APOTEK\APOTEK\bin\Debug\APOTEK.exe
+e:\users\user 2\documents\visual studio 2010\Projects\APOTEK\APOTEK\bin\Debug\APOTEK.pdb
+e:\users\user 2\documents\visual studio 2010\Projects\APOTEK\APOTEK\bin\Debug\APOTEK.xml
+e:\users\user 2\documents\visual studio 2010\Projects\APOTEK\APOTEK\obj\x86\Debug\APOTEK.Form1.resources
+e:\users\user 2\documents\visual studio 2010\Projects\APOTEK\APOTEK\obj\x86\Debug\APOTEK.Form2.resources
+e:\users\user 2\documents\visual studio 2010\Projects\APOTEK\APOTEK\obj\x86\Debug\APOTEK.Resources.resources
+e:\users\user 2\documents\visual studio 2010\Projects\APOTEK\APOTEK\obj\x86\Debug\APOTEK.vbproj.GenerateResource.Cache
+e:\Users\USER 2\Documents\Visual Studio 2010\Projects\APOTEK\APOTEK\obj\x86\Debug\APOTEK.Form3.resources
+e:\Users\USER 2\Documents\Visual Studio 2010\Projects\APOTEK\APOTEK\obj\x86\Debug\APOTEK.Form4.resources
+e:\Users\USER 2\Documents\Visual Studio 2010\Projects\APOTEK\APOTEK\obj\x86\Debug\APOTEK.Form5.resources
+e:\Users\USER 2\Documents\Visual Studio 2010\Projects\APOTEK\APOTEK\obj\x86\Debug\APOTEK.Form6.resources
+D:\RPL\PEMBELAJARAN\PRODUKTIF\Pemdas\APOTEK\APOTEK\obj\x86\Debug\APOTEK.exe
+D:\RPL\PEMBELAJARAN\PRODUKTIF\Pemdas\APOTEK\APOTEK\obj\x86\Debug\APOTEK.xml
+D:\RPL\PEMBELAJARAN\PRODUKTIF\Pemdas\APOTEK\APOTEK\obj\x86\Debug\APOTEK.pdb
+D:\RPL\PEMBELAJARAN\PRODUKTIF\Pemdas\APOTEK\APOTEK\bin\Debug\APOTEK.exe
+D:\RPL\PEMBELAJARAN\PRODUKTIF\Pemdas\APOTEK\APOTEK\bin\Debug\APOTEK.pdb
+D:\RPL\PEMBELAJARAN\PRODUKTIF\Pemdas\APOTEK\APOTEK\bin\Debug\APOTEK.xml
+D:\RPL\PEMBELAJARAN\PRODUKTIF\Pemdas\APOTEK\APOTEK\obj\x86\Debug\APOTEK.Form1.resources
+D:\RPL\PEMBELAJARAN\PRODUKTIF\Pemdas\APOTEK\APOTEK\obj\x86\Debug\APOTEK.Form2.resources
+D:\RPL\PEMBELAJARAN\PRODUKTIF\Pemdas\APOTEK\APOTEK\obj\x86\Debug\APOTEK.Form7.resources
+D:\RPL\PEMBELAJARAN\PRODUKTIF\Pemdas\APOTEK\APOTEK\obj\x86\Debug\APOTEK.Resources.resources
+D:\RPL\PEMBELAJARAN\PRODUKTIF\Pemdas\APOTEK\APOTEK\obj\x86\Debug\APOTEK.vbproj.GenerateResource.Cache
+D:\RPL\PEMBELAJARAN\PRODUKTIF\Pemdas\APOTEK\APOTEK\obj\x86\Debug\APOTEK.vbprojAssemblyReference.cache
+D:\RPL\PEMBELAJARAN\PRODUKTIF\Pemdas\APOTEK\APOTEK\obj\x86\Debug\APOTEK.vbproj.CoreCompileInputs.cache
+D:\RPL\PEMBELAJARAN\PRODUKTIF\Pemdas\APOTEK\APOTEK\bin\Debug\Bunifu_UI_v1.52.dll
+D:\RPL\PEMBELAJARAN\PRODUKTIF\Pemdas\APOTEK\APOTEK\obj\x86\Debug\APOTEK.vbproj.CopyComplete
+D:\RPL\PEMBELAJARAN\PRODUKTIF\Pemdas\APOTEK\APOTEK\obj\x86\Debug\APOTEK.Form8.resources
+D:\RPL\PEMBELAJARAN\PRODUKTIF\Pemdas\APOTEK\APOTEK\obj\x86\Debug\APOTEK.Form9.resources
+D:\RPL\PEMBELAJARAN\PRODUKTIF\Pemdas\APOTEK\APOTEK\bin\Debug\Interop.Crystal.dll
+D:\RPL\PEMBELAJARAN\PRODUKTIF\Pemdas\APOTEK\APOTEK\bin\Debug\AxInterop.Crystal.dll
+D:\RPL\PEMBELAJARAN\PRODUKTIF\Pemdas\APOTEK\APOTEK\obj\x86\Debug\Interop.Crystal.dll
+D:\RPL\PEMBELAJARAN\PRODUKTIF\Pemdas\APOTEK\APOTEK\obj\x86\Debug\AxInterop.Crystal.dll
+D:\RPL\PEMBELAJARAN\PRODUKTIF\Pemdas\APOTEK\APOTEK\obj\x86\Debug\APOTEK.vbproj.ResolveComReference.cache
